@@ -1,4 +1,4 @@
-# java_task1
+#file handling utility
 COMPANY : CODTECH IT SOLUTIONS
 NAME: PRATIBHA LILHARE
 INTEN ID : CT04DA232
