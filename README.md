@@ -1,4 +1,7 @@
 # java_task1
-This is my java project completing the first task of file handling utility
-<br>
-Author - Pratibha..
+COMPANY : CODTECH IT SOLUTIONS
+NAME: PRATIBHA LILHARE
+INTEN ID : CT04DA232
+DOMAIN : JAVA PROGRAMMING
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTOSH
