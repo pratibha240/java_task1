@@ -1,12 +1,4 @@
-/**
- * FileOperations.java
- *
- * Description: Java program to demonstrate reading, writing,
- * and modifying text files with precision and clarity.
- *
- * Author: Pratibha.
- * Date: 2025-04-27
- */
+
 
  import java.io.*;
  import java.nio.file.*;
